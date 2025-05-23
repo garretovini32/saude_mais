@@ -327,7 +327,7 @@ tinycss2==1.4.0
 toml==0.10.2
 tomli==2.2.1
 toolz==1.0.0
-torch==2.0.1
+#torch==2.0.1
 torchaudio==2.0.2
 torchtext==0.6.0
 torchvision==0.15.2
